@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+# configuracon de visual studio code
+# no me aparece la carpeta que se crea por defecto .vscode no c porqeu 
+# pero si me apareciera devia de poner desues del comentario en una linea 
+# aparte solo   .vscode
